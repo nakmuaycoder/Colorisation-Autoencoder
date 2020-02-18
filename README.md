@@ -16,4 +16,4 @@ Model 2 : tune VGG16 model.
   Then use convolution in the decoder to generate the picture.
 
 
-![alt text](https://github.com/nakmuayFarang/Colorisation-Autoencoder/blob/master/Model2/test.png)
+![alt text](https://github.com/nakmuaycoder/Colorisation-Autoencoder/blob/master/Model2/test.png)
